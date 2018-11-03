@@ -64,6 +64,7 @@ nav {
 /* sizes the div boxes by percentage of the page */
 section {
   margin: 0 auto;
+	padding-top:1em;
   width: 60%;
 }
 
@@ -88,7 +89,7 @@ h3 {
 .element, .element2 {
   background-color: green;
   height: 100px;
-  margin 10px 0;
+  margin: 10px 0;
   width: 100%;
 }
 
